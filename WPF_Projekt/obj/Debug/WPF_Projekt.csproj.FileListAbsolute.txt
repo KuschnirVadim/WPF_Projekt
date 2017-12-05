@@ -1,0 +1,17 @@
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.csprojResolveAssemblyReference.cache
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\ProjectsView.baml
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\MainWindow.g.cs
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\ProjectsView.g.cs
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\App.g.cs
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt_MarkupCompile.cache
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt_MarkupCompile.lref
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\bin\Debug\WPF_Projekt.exe.config
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\bin\Debug\WPF_Projekt.exe
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\bin\Debug\WPF_Projekt.pdb
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\MainWindow.baml
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.g.resources
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.Properties.Resources.resources
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.csproj.GenerateResource.Cache
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.csproj.CoreCompileInputs.cache
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.exe
+D:\THB\Visual Studio Projekts\WPF_Projekt\WPF_Projekt\obj\Debug\WPF_Projekt.pdb
